@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to left,orange , rgb(161, 112, 19) );
+}
+h1{
+    background-image: linear-gradient(yellow,rgba(35, 109, 25, 0.685));
+    text-align: center;
+}
+p{
+    background-color: rgb(136, 161, 153);
+    font-weight: bold;
+}
+h2{
+    color: white;
+}
+b{
+    background-color: greenyellow;
+    color: black;
+}
